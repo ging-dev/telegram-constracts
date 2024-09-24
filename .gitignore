@@ -1,0 +1,5 @@
+*.cache
+/api.json
+/generate.php
+/vendor/
+/composer.lock
