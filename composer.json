@@ -14,10 +14,8 @@
             "email": "thanh1101dev@gmail.com"
         }
     ],
-    "require": {
-        "nette/php-generator": "^4.1"
-    },
     "require-dev": {
+        "nette/php-generator": "^4.1",
         "symfony/serializer": "^7.1",
         "phpstan/phpstan": "^1.12"
     }
